@@ -1,5 +1,7 @@
 package org.week3.homework.antra_student_spring_homework.service;
 
+import java.util.ArrayList;
+import java.util.List;
 import org.springframework.stereotype.Service;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.client.RestTemplate;
@@ -13,10 +15,14 @@ public class ApiService {
     this.restTemplate = restTemplate;
   }
 
-  public UniversityResponse getUniversitiesByCountry(String country) {
-    String url = "http://universities.hipolabs.com/search?country=" + country;
-    String response = restTemplate.getForObject(url, String.class);
-    return new UniversityResponse(response);
+  public List<UniversityResponse> getUniversitiesByCountries(List<String> countries) {
+    List<UniversityResponse> responses = new ArrayList<>();
+    for (String country : countries) {
+      String url = "http://universities.hipolabs.com/search?country=" + country;
+      String response = restTemplate.getForObject(url, String.class);
+      responses.add(new UniversityResponse(response));
+    }
+    return responses;
   }
 
   public UniversityResponse searchUniversities(String query) {
