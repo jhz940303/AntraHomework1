@@ -14,12 +14,12 @@ import org.springframework.security.core.AuthenticationException;
 import org.springframework.security.core.userdetails.UserDetails;
 import org.springframework.security.web.authentication.UsernamePasswordAuthenticationFilter;
 
-public class JwtAuthenticationFilter extends UsernamePasswordAuthenticationFilter {
+public class JwtTokenFilter extends UsernamePasswordAuthenticationFilter {
 
   private final AuthenticationManager authenticationManager;
   private final JwtUtil jwtUtil;
 
-  public JwtAuthenticationFilter(AuthenticationManager authenticationManager, JwtUtil jwtUtil) {
+  public JwtTokenFilter(AuthenticationManager authenticationManager, JwtUtil jwtUtil) {
     this.authenticationManager = authenticationManager;
     this.jwtUtil = jwtUtil;
     setFilterProcessesUrl("/authenticate");
