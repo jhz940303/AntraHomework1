@@ -2,25 +2,38 @@
 <project version="4">
   <component name="CompilerConfiguration">
     <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
       <profile name="Maven default annotation processors profile" enabled="true">
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="Antra_Student_Spring_Homework" />
         <module name="search" />
+        <module name="security" />
+        <module name="discovery" />
+        <module name="DB_Student_Teacher" />
         <module name="details" />
         <module name="config" />
-        <module name="discovery" />
         <module name="gateway" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="db_student_teacher" target="1.8" />
+      <module name="university" target="18" />
+    </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="Antra_Student_Spring_Homework" options="-parameters" />
+      <module name="DB_Student_Teacher" options="-parameters" />
       <module name="config" options="-parameters" />
+      <module name="db_student_teacher" options="-parameters" />
       <module name="details" options="-parameters" />
       <module name="discovery" options="-parameters" />
       <module name="gateway" options="-parameters" />
       <module name="search" options="-parameters" />
+      <module name="security" options="-parameters" />
+      <module name="university" options="-parameters" />
     </option>
   </component>
 </project>

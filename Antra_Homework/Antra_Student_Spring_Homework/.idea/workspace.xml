@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="fbadb159-cf25-4650-b336-2826933abdb2" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../weather-master/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../weather-master/university/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/week3/homework/antra_student_spring_homework/AntraStudentSpringHomeworkApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../weather-master/university/src/main/java/org/week3/homework/antra_student_spring_homework/AntraStudentSpringHomeworkApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/week3/homework/antra_student_spring_homework/config/AppConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../weather-master/university/src/main/java/org/week3/homework/antra_student_spring_homework/config/AppConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/week3/homework/antra_student_spring_homework/controller/ApiController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../weather-master/university/src/main/java/org/week3/homework/antra_student_spring_homework/controller/ApiController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/week3/homework/antra_student_spring_homework/exception/GlobalExceptionHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../weather-master/university/src/main/java/org/week3/homework/antra_student_spring_homework/exception/GlobalExceptionHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/week3/homework/antra_student_spring_homework/model/UniversityResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../weather-master/university/src/main/java/org/week3/homework/antra_student_spring_homework/model/UniversityResponse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/week3/homework/antra_student_spring_homework/service/ApiService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../weather-master/university/src/main/java/org/week3/homework/antra_student_spring_homework/service/ApiService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/week3/homework/antra_student_spring_homework/AntraStudentSpringHomeworkApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../weather-master/university/src/test/java/org/week3/homework/antra_student_spring_homework/AntraStudentSpringHomeworkApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DB_Student_Teacher/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DB_Student_Teacher/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DB_Student_Teacher/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DB_Student_Teacher/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DB_Student_Teacher/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DB_Student_Teacher/src/main/java/com/db_homework1/db_student_teacher/Controller/StudentController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DB_Student_Teacher/src/main/java/com/db_homework1/db_student_teacher/DTO/StudentDTO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DB_Student_Teacher/src/main/java/com/db_homework1/db_student_teacher/DTO/StudentNameDTO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DB_Student_Teacher/src/main/java/com/db_homework1/db_student_teacher/DTO/TeacherDTO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DB_Student_Teacher/src/main/java/com/db_homework1/db_student_teacher/DbStudentTeacherApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DB_Student_Teacher/src/main/java/com/db_homework1/db_student_teacher/Entity/Student.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DB_Student_Teacher/src/main/java/com/db_homework1/db_student_teacher/Entity/Student_Teacher.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DB_Student_Teacher/src/main/java/com/db_homework1/db_student_teacher/Entity/Teacher.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DB_Student_Teacher/src/main/java/com/db_homework1/db_student_teacher/Interface/StudentInterface.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DB_Student_Teacher/src/main/java/com/db_homework1/db_student_teacher/Service/StudentService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DB_Student_Teacher/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DB_Student_Teacher/src/test/java/com/db_homework1/db_student_teacher/DbStudentTeacherApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../weather-master/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../weather-master/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../weather-master/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../weather-master/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../weather-master/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../weather-master/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../weather-master/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../weather-master/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../weather-master/config/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../weather-master/config/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../weather-master/config/src/main/resources/bootstrap.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../weather-master/config/src/main/resources/bootstrap.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../weather-master/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../weather-master/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../weather-master/properties/details-dev.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../weather-master/properties/details-dev.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../weather-master/src/test/java/com/example/weather/WeatherApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../weather-master/src/test/java/com/example/weather/WeatherApplicationTests.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2kz8hfeS6cKXvfoGqgxUpQLPUck" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/jiahuizou/Desktop/AntraHomework1/Antra_Homework/Antra_Student_Spring_Homework&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;spring.configuration.checksum&quot;: &quot;743257878d567bfa1ffa93787f3b8b6e&quot;
+  }
+}</component>
+  <component name="RunManager">
+    <configuration name="AntraStudentSpringHomeworkApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="Antra_Student_Spring_Homework" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="org.week3.homework.antra_student_spring_homework.AntraStudentSpringHomeworkApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fbadb159-cf25-4650-b336-2826933abdb2" name="Changes" comment="" />
+      <created>1724275166085</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1724275166085</updated>
+      <workItem from="1724275167450" duration="2147000" />
+      <workItem from="1724280313818" duration="2115000" />
+      <workItem from="1724383244769" duration="307000" />
+      <workItem from="1725577112796" duration="608000" />
+      <workItem from="1725578310372" duration="74000" />
+      <workItem from="1725641696255" duration="22000" />
+      <workItem from="1725646823036" duration="5000" />
+      <workItem from="1725653596146" duration="5000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
